@@ -1,0 +1,12 @@
+C:\misiontic3\Granja\Granja.App\Granja.App.Dominio\bin\Debug\net5.0\Granja.App.Dominio.deps.json
+C:\misiontic3\Granja\Granja.App\Granja.App.Dominio\bin\Debug\net5.0\Granja.App.Dominio.dll
+C:\misiontic3\Granja\Granja.App\Granja.App.Dominio\bin\Debug\net5.0\ref\Granja.App.Dominio.dll
+C:\misiontic3\Granja\Granja.App\Granja.App.Dominio\bin\Debug\net5.0\Granja.App.Dominio.pdb
+C:\misiontic3\Granja\Granja.App\Granja.App.Dominio\obj\Debug\net5.0\Granja.App.Dominio.csproj.AssemblyReference.cache
+C:\misiontic3\Granja\Granja.App\Granja.App.Dominio\obj\Debug\net5.0\Granja.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\misiontic3\Granja\Granja.App\Granja.App.Dominio\obj\Debug\net5.0\Granja.App.Dominio.AssemblyInfoInputs.cache
+C:\misiontic3\Granja\Granja.App\Granja.App.Dominio\obj\Debug\net5.0\Granja.App.Dominio.AssemblyInfo.cs
+C:\misiontic3\Granja\Granja.App\Granja.App.Dominio\obj\Debug\net5.0\Granja.App.Dominio.csproj.CoreCompileInputs.cache
+C:\misiontic3\Granja\Granja.App\Granja.App.Dominio\obj\Debug\net5.0\Granja.App.Dominio.dll
+C:\misiontic3\Granja\Granja.App\Granja.App.Dominio\obj\Debug\net5.0\ref\Granja.App.Dominio.dll
+C:\misiontic3\Granja\Granja.App\Granja.App.Dominio\obj\Debug\net5.0\Granja.App.Dominio.pdb
